@@ -13,7 +13,7 @@
    
  - 🔭 Tony Stark fanboi , die for more technologies😼
 
- - 🛸 My dream is beeing better of all time in my life 🥇.
+ - 🛸 My dream is beeing best version myself 🥇.
  
  - I do fullstack and a bit of everything :heart:
  
