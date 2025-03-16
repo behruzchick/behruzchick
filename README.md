@@ -29,6 +29,8 @@
      <img src="https://github.com/user-attachments/assets/48df785b-1e22-45de-a1dc-a26c1f486851" width="40px">
      <img src="https://github.com/user-attachments/assets/903c8300-0623-44df-9c1b-2675f4576c2a" width="40px">
      <img src="https://github.com/user-attachments/assets/f1488d73-05ff-444a-9f15-ec25636547f6" width="40px">
+     <img src="https://nuxt.com/assets/design-kit/icon-green.svg" width="40px">
+     <img src="https://img.icons8.com/?size=512&id=WoopfRcDj3RF&format=png" width="40px">
 
    </div>
 
